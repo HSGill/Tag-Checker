@@ -52,5 +52,3 @@ var isValid = function (code) {
     }
 
 };
-
-console.log(isValid('<B><C>This should be centred and in boldface, but there isa missing closing tag</C>'));
